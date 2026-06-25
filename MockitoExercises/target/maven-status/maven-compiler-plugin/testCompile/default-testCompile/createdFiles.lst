@@ -1,2 +1,3 @@
 com\cognizant\mockito\AppTest.class
+com\cognizant\mockito\VerifyInteractionTest.class
 com\cognizant\mockito\MyServiceTest.class
