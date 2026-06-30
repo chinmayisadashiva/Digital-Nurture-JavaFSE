@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "AdapterPatternExample/src",
+        "LibraryManagement/src/main/java/com/library"
+    ]
+}
